@@ -5,11 +5,27 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="noindex, nofollow">
-<title>Categories | Ethan Lam</title>
+<title>Education | Ethan Lam</title>
 <meta name="keywords" content="">
-<meta name="description" content="">
+<meta name="description" content="National Taiwan Normal University
+Location: Taipei, TW
+Degree: Bachelor of Science
+Duration: 2021 - Anticipated 2026
+
+Major: Mathematics
+Double Major: Computer Science and Information Engineering
+
+St. Stephen&rsquo;s Church College
+Location: Hong Kong
+Year: 2021
+Elective Courses:
+
+Mathematics (M2)
+Information and Communication Technology (ICT)
+Physics
+">
 <meta name="author" content="">
-<link rel="canonical" href="http://localhost:1313/categories/">
+<link rel="canonical" href="http://localhost:1313/education/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.8fe10233a706bc87f2e08b3cf97b8bd4c0a80f10675a143675d59212121037c0.css" integrity="sha256-j&#43;ECM6cGvIfy4Is8&#43;XuL1MCoDxBnWhQ2ddWSEhIQN8A=" rel="preload stylesheet" as="style">
 <link rel="icon" href="http://localhost:1313/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
@@ -18,8 +34,7 @@
 <link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/categories/index.xml">
-<link rel="alternate" hreflang="en" href="http://localhost:1313/categories/">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/education/">
 <noscript>
     <style>
         #theme-toggle,
@@ -59,7 +74,7 @@
 </noscript>
 </head>
 
-<body class="list" id="top">
+<body class="" id="top">
 <script>
     if (localStorage.getItem("pref-theme") === "dark") {
         document.body.classList.add('dark');
@@ -106,7 +121,7 @@
             </li>
             <li>
                 <a href="http://localhost:1313/education/" title="Education">
-                    <span>Education</span>
+                    <span class="active">Education</span>
                 </a>
             </li>
             <li>
@@ -128,12 +143,43 @@
     </nav>
 </header>
 <main class="main">
-<header class="page-header">
-    <h1>Categories</h1>
-</header>
 
-<ul class="terms-tags">
+<article class="post-single">
+  <header class="post-header">
+    <div class="breadcrumbs"><a href="http://localhost:1313/">Home</a></div>
+    <h1 class="post-title entry-hint-parent">
+      Education
+    </h1>
+    <div class="post-meta"><span title='2025-08-07 00:00:00 +0000 UTC'>August 7, 2025</span>
+
+</div>
+  </header> 
+  <div class="post-content"><h1 id="national-taiwan-normal-university">National Taiwan Normal University<a hidden class="anchor" aria-hidden="true" href="#national-taiwan-normal-university">#</a></h1>
+<p><strong>Location:</strong> Taipei, TW<br>
+<strong>Degree:</strong> Bachelor of Science<br>
+<strong>Duration:</strong> 2021 - Anticipated 2026</p>
+<ul>
+<li><strong>Major:</strong> Mathematics</li>
+<li><strong>Double Major:</strong> Computer Science and Information Engineering</li>
 </ul>
+<h1 id="st-stephens-church-college">St. Stephen&rsquo;s Church College<a hidden class="anchor" aria-hidden="true" href="#st-stephens-church-college">#</a></h1>
+<p><strong>Location:</strong> Hong Kong<br>
+<strong>Year:</strong> 2021</p>
+<p><strong>Elective Courses:</strong></p>
+<ul>
+<li>Mathematics (M2)</li>
+<li>Information and Communication Technology (ICT)</li>
+<li>Physics</li>
+</ul>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+    </ul>
+  </footer>
+</article>
     </main>
     
 <footer class="footer">
@@ -204,6 +250,53 @@
         }
     })
 
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copy';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'copied!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
 </script>
 </body>
 

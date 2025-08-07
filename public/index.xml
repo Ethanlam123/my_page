@@ -1,11 +1,134 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Welcome on Ethan Lam</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content in Welcome on Ethan Lam</description>
     <generator>Hugo -- 0.148.2</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 07 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;lam-yu-sing-ethan&#34;&gt;Lam Yu Sing, Ethan&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Contact Information&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Email: &lt;a href=&#34;mailto:lamyusingethan@gmail.com&#34;&gt;lamyusingethan@gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/ethanlam123&#34;&gt;github.com/ethanlam123&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Kaggle: &lt;a href=&#34;https://kaggle.com/ethanlam0415&#34;&gt;kaggle.com/ethanlam0415&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Welcome to my personal website! I&amp;rsquo;m Ethan Lam, a mathematics and computer science student at National Taiwan Normal University with a passion for programming, machine learning, and education technology.&lt;/p&gt;
+&lt;p&gt;Currently pursuing a double major in Mathematics and CSIE, I enjoy combining analytical thinking with practical programming skills to solve complex problems and teach others.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Education</title>
+      <link>http://localhost:1313/education/</link>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/education/</guid>
+      <description>&lt;h1 id=&#34;national-taiwan-normal-university&#34;&gt;National Taiwan Normal University&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Taipei, TW&lt;br&gt;
+&lt;strong&gt;Degree:&lt;/strong&gt; Bachelor of Science&lt;br&gt;
+&lt;strong&gt;Duration:&lt;/strong&gt; 2021 - Anticipated 2026&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Major:&lt;/strong&gt; Mathematics&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Double Major:&lt;/strong&gt; Computer Science and Information Engineering&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;st-stephens-church-college&#34;&gt;St. Stephen&amp;rsquo;s Church College&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Hong Kong&lt;br&gt;
+&lt;strong&gt;Year:&lt;/strong&gt; 2021&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Elective Courses:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mathematics (M2)&lt;/li&gt;
+&lt;li&gt;Information and Communication Technology (ICT)&lt;/li&gt;
+&lt;li&gt;Physics&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Technical Skills</title>
+      <link>http://localhost:1313/technical-skills/</link>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/technical-skills/</guid>
+      <description>&lt;h1 id=&#34;programming-languages&#34;&gt;Programming Languages&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;C&lt;/li&gt;
+&lt;li&gt;R&lt;/li&gt;
+&lt;li&gt;Bash&lt;/li&gt;
+&lt;li&gt;Matlab&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;machine-learning--data-science&#34;&gt;Machine Learning &amp;amp; Data Science&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;PyTorch&lt;/li&gt;
+&lt;li&gt;Transformers&lt;/li&gt;
+&lt;li&gt;Pandas&lt;/li&gt;
+&lt;li&gt;NumPy&lt;/li&gt;
+&lt;li&gt;Scikit-learn&lt;/li&gt;
+&lt;li&gt;Streamlit&lt;/li&gt;
+&lt;li&gt;Monai&lt;/li&gt;
+&lt;li&gt;nnUNet&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;developer-tools&#34;&gt;Developer Tools&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Git&lt;/li&gt;
+&lt;li&gt;Docker&lt;/li&gt;
+&lt;li&gt;LaTeX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;languages&#34;&gt;Languages&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cantonese:&lt;/strong&gt; Native&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mandarin:&lt;/strong&gt; Fluent&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;English:&lt;/strong&gt; Working Proficiency&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Work Experience</title>
+      <link>http://localhost:1313/work-experience/</link>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/work-experience/</guid>
+      <description>&lt;h1 id=&#34;apple-buds-inc&#34;&gt;Apple Buds, Inc.&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Taipei, TW&lt;br&gt;
+&lt;strong&gt;Position:&lt;/strong&gt; Teaching Coach&lt;br&gt;
+&lt;strong&gt;Duration:&lt;/strong&gt; March 2022 - Present&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Teach programming to students and assist with problem-solving in a flipped classroom setting&lt;/li&gt;
+&lt;li&gt;Guide students through classroom challenges&lt;/li&gt;
+&lt;li&gt;Provide feedback on students&amp;rsquo; performance to parents&lt;/li&gt;
+&lt;li&gt;Teaching multiple sessions of a 4-day Roblox camp, where instructors teach students to use Roblox Studio to edit 3D objects and basic programming concepts, and implement games&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;ntnu-department-of-mathematics&#34;&gt;NTNU, Department of Mathematics&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Taipei, TW&lt;br&gt;
+&lt;strong&gt;Position:&lt;/strong&gt; Teaching Assistant, MAU0032 Computer Programming&lt;br&gt;
+&lt;strong&gt;Duration:&lt;/strong&gt; March 2024 - June 2024&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Leadership &amp; Activities</title>
+      <link>http://localhost:1313/leadership/</link>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/leadership/</guid>
+      <description>&lt;h1 id=&#34;gdsc-x-ntnu&#34;&gt;GDSC x NTNU&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Taipei, TW&lt;br&gt;
+&lt;strong&gt;Position:&lt;/strong&gt; Tech Core Team Member&lt;br&gt;
+&lt;strong&gt;Duration:&lt;/strong&gt; September 2023 - June 2024&lt;/p&gt;
+&lt;h2 id=&#34;workshops--events-organized&#34;&gt;Workshops &amp;amp; Events Organized:&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Git Workshop&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Successfully conducted a Git workshop with 17 participants&lt;/li&gt;
+&lt;li&gt;Focused on fundamental Git operations and collaborative coding practices&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Bash Scripting Workshop&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hosted a workshop on Bash scripting, attended by 13 participants&lt;/li&gt;
+&lt;li&gt;Covered basic to intermediate scripting techniques&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Streamlit Workshop&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Conducted a workshop on Streamlit, a Python library for creating web applications&lt;/li&gt;
+&lt;li&gt;Workshop had 7 participants&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Google Cloud Study Jam&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

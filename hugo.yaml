@@ -1,7 +1,39 @@
 baseURL: https://example.org/
 languageCode: en-us
-title: My New Hugo Site
+title: Ethan Lam
 theme: ["PaperMod"]
+
+params:
+  ShowReadingTime: false
+  ShowShareButtons: false
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowToc: false
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: education
+      name: Education
+      url: /education/
+      weight: 20
+    - identifier: technical-skills
+      name: Technical Skills
+      url: /technical-skills/
+      weight: 30
+    - identifier: work-experience
+      name: Work Experience
+      url: /work-experience/
+      weight: 40
+    - identifier: leadership
+      name: Leadership
+      url: /leadership/
+      weight: 50
+
 caches:
   images:
     dir: :cacheDir/images
