@@ -6,11 +6,13 @@ weight: 3
 ---
 
 # Programming Languages
+- Vibe coding
 - Python
 - C
 - R
 - Bash
 - Matlab
+
 
 # Machine Learning & Data Science
 - PyTorch

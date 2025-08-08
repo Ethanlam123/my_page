@@ -33,6 +33,10 @@ menu:
       name: Leadership
       url: /leadership/
       weight: 50
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 60
 
 caches:
   images:
